@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    margin-top: 16%;
+    color: rgb(243, 128, 20);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 200;
+}
+.btn{
+    margin-left: 45%;
+    margin-top: 5%;
+}
+
+.name input{
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 4%;
+}
